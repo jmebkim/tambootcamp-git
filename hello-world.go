@@ -1,7 +1,7 @@
 # add a new comment # add a second comment
 # add a third comment
 # add a fourth comment
-# file:  hello-world.go
+# oh no - a conflict
 # description:  my very first go program
 # Feb24 comment from local
 
