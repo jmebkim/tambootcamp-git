@@ -6,6 +6,7 @@
 # description:  my very first go program
 # jaimie line of comments
 # Feb24 comment from local
+# Feb24 diff test comment
 
 package main
 import "fmt"
